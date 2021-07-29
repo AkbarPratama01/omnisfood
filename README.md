@@ -1,1 +1,1 @@
-# omnisfood Tempalte from Udemy
+# Omnisfood Tempalte from Udemy
